@@ -1,0 +1,5 @@
+Con la flecha de arriba la posición sube en una unidad.
+
+Con la flecha de abajo la posición disminuye en una unidad.
+
+En la terminal se puede escribir directamente una posición entre 0 y 100.
